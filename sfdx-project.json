@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "scheduler-salesforce-app",
+  "namespace": "",
+  "sfdcLoginUrl": "https://metricsiilo-dev-ed.develop.my.salesforce.com",
+  "sourceApiVersion": "55.0"
+}
